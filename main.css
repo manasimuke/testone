@@ -1,3 +1,51 @@
 body {
-    padding: 20px;
+    padding: 30px;
+    background-image: url("back.jpg");
 }
+
+li {
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    margin: 10px;
+}
+
+
+
+#list1 {
+    display: none;
+    color: white;
+}
+
+
+.col-md-4 {
+    text-align: center;
+    margin:auto;
+}
+
+ul {
+    text-align: center;
+    margin: auto;
+}
+
+.page-header {
+    color: darkturquoise;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    font-size: 35px;
+}
+
+#input {
+    color: white;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+    outline: none;
+    min-height: 30px;
+}
+
+.btn {
+    font-family: 'Alegreya', serif;
+    font-size: 18px;
+}
+
